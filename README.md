@@ -1,4 +1,4 @@
-# pil4
+# Lua-exercise
 Contains (solutions to) exercises from _Programming in Lua, 4th Edition_
 
 ## Structure
